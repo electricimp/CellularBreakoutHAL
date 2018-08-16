@@ -32,4 +32,4 @@ Hardware Abstraction Layer Object for impC001 Cellular Breakout Board
 
 ## License
 
-Cellular Breakout Hardware Abstraction Layer is licensed under the MIT License.
+Cellular Breakout Hardware Abstraction Layer is licensed under the [MIT License](/LICENSE).
